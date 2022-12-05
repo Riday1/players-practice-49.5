@@ -1,0 +1,38 @@
+.home-container {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+
+}
+
+/* left side code  */
+
+.search-input {
+    font-size: 16px;
+    padding: 20px;
+    /* border-radius: 8px; */
+    border: 1px solid gray;
+    width: 60%;
+}
+
+.search-section {
+    padding-top: 20px;
+
+}
+
+.btn-search {
+    padding: 19px;
+    background-color: lightblue;
+    font-weight: bold;
+    font-size: 16px;
+    border: 1px solid gray;
+    margin-left: 10px;
+    ;
+}
+
+
+
+/* right side code  */
+
+.right-side{
+    
+}
